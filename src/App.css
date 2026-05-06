@@ -1,0 +1,12 @@
+.app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.app h1 {
+  text-align: center;
+  color: #2e8b57;
+  margin-bottom: 30px;
+}

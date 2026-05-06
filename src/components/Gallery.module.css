@@ -1,0 +1,33 @@
+.gallery {
+  margin: 20px;
+  padding: 20px;
+  background-color: #fffacd;
+  border-radius: 10px;
+}
+
+.gallery h2 {
+  color: #2e8b57;
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+  gap: 20px;
+}
+
+.photoItem {
+  text-align: center;
+}
+
+.photoItem img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.photoItem p {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #333;
+}

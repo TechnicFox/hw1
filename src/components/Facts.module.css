@@ -1,0 +1,19 @@
+.facts {
+  margin: 20px;
+  padding: 20px;
+  background-color: #ffe4e1;
+  border-radius: 10px;
+}
+
+.facts h2 {
+  color: #2e8b57;
+}
+.facts ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.facts li {
+  margin: 10px 0;
+  color: #333;
+}

@@ -1,0 +1,19 @@
+.cityCard {
+  background-color: #f0f8ff;
+  border: 1px solid #add8e6;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-family: 'Roboto', sans-serif;
+}
+
+.title {
+  color: #2e8b57;
+  margin-bottom: 15px;
+}
+
+.info {
+  margin: 10px 0;
+  color: #333;
+}
